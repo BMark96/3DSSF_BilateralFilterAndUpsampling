@@ -18,6 +18,7 @@ Project for 3D Sensing and Sensor Fusion subject at ELTE.
 
 ## Dataset
 Face image with freckles for filtering. Source: https://www.pexels.com/photo/close-up-photography-of-woman-s-face-with-freckles-2709386
+
 Reindeer depth and guide image for upsampling. Source: http://vision.middlebury.edu/stereo/data/scenes2005
 
 ## Evaluation
